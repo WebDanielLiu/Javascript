@@ -1,0 +1,27 @@
+{
+  "success": true,
+  "data": [
+    {
+      "headline":"THIS IS A HEADLINE",
+      "buyIt":"BUY IT.",
+      "thisIsCondo":"THIS CONDOMINIUM PROJECT IS LOCATED SOMEWHERE IN TORONTO.",
+      "lorem":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore etdolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquipexea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "preferred":[
+        {"value":1,"option":"preferred1"},
+        {"value":2,"option":"preferred2"},
+        {"value":3,"option":"preferred3"}
+      ],
+      "target":[
+        {"value":1,"option":"target1"},
+        {"value":2,"option":"target2"},
+        {"value":3,"option":"target3"}
+      ],
+      "interested":[
+        {"value":1,"option":"interested1"},
+        {"value":2,"option":"interested2"},
+        {"value":3,"option":"interested3"}
+      ],
+      "bySubmitting":"By submitting this Registation Form, I expressly consent to recieve commercial electronic messages from The Client regarding This Project and any of their other projects. Your consent is sought by The Client. If you have any questions related to The Client's privacy policy and use of commercial electronic messages, please contact The Client at 742 Evergreen Terrace, Springfield, Springfield State USA 009900.",
+      "copyright":"Copyright © 2015. All rights reserved."
+    }]
+}
